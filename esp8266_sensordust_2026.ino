@@ -9,13 +9,13 @@
 // ==========================================
 // CONFIGURAÇÕES
 // ==========================================
-const char* ssid = "pi_3d";
-const char* password = "fr@nco9173";
-const char* thingSpeakApiKey = "XUXKQW00OOQV61FL";
+const char* ssid = "SSID";
+const char* password = "pass";
+const char* thingSpeakApiKey = "******";
 
 // Sinric Pro (Alexa)
-const char* sinricAppKey = "b32da206-ab2d-42e2-bdd3-51da06c8f79c";
-const char* deviceId = "69f37a91ad44f4047d0acf3a";
+const char* sinricAppKey = "******";
+const char* deviceId = "*******";
 
 // ==========================================
 // PINAGEM
